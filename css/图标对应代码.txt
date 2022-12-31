@@ -1,0 +1,20 @@
+icon-router	61	icon-dsm   	 62	icon-docker	63         
+icon-vm		64	icon-shell  	 65	icon-download	68         
+icon-pt		69	icon-photo 	 67	icon-audio	6a         
+icon-video	6b	icon-file	 	 6c	icon-doc		6d  
+icon-note		6e	icon-mail	   	 66	icon-surveillance	71     
+icon-vbox		72	icon-console	 73	icon-bookmark	74      
+icon-medal	75	icon-checkbox	 76	icon-music	77        
+icon-book		78	icon-desktop	 79	icon-folder	7a         
+icon-search	41	icon-vault		 42	icon-vault2	43         
+icon-db		44	icon-setting	 45	icon-filebox	46         
+icon-server	47	icon-servers	 48	icon-sharefolder	49       
+icon-disk		4a	icon-key		 4b	icon-global	4c     
+icon-python	4d	icon-wordpress	 4e	icon-mysql	4f        
+icon-java		50	icon-key2		 51	icon-php		52    
+icon-bug		53	icon-sharefile	 54	icon-dslr		55     
+icon-projector	56	icon-film		 57	icon-pig		58        
+icon-bag		59	icon-briefcase	 5a	icon-wallet	30   
+icon-qrcode	31	icon-star		 32	icon-rocket	33  
+icon-game	34	icon-diamond	 35	icon-circle		6f	      
+icon-flag		70       
